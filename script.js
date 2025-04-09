@@ -15,7 +15,7 @@ function drawOverlay() {
     ctx.font = 'bold 20px Arial';
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
-    ctx.fillText('Para mi persona fav', canvas.width / 2, canvas.height / 2);
+    ctx.fillText('Pasame el dedo 🫦', canvas.width / 2, canvas.height / 2);
 }
 
 let isDrawing = false;
